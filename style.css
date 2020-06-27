@@ -1,10 +1,10 @@
 body {
-    background: #fff;
+    background: lightgrey;
     font-family: 'Poppins', sans-serif;
 }
 
 .navbar-brand {
-    background: teal;  
+    background: lightseagreen;
     padding: 10px;
 }
 
@@ -14,10 +14,11 @@ body {
 
 .card {
     width: 60%;
+    margin: 20px 40px; 
 }
 
 .card-header {
-    color: teal;
+    color: lightseagreen;
     font-weight: bold;
     font-size: 30px;
 }
@@ -36,10 +37,31 @@ p {
     background: teal;
 } */
 
+form {
+    padding: 30px;
+}
+
 footer {
     background: #666;
     color: #fff;
     text-align: center;
     margin-top: 100px;
     padding: 20px;
+}
+
+.social {
+    font-size: 24px;
+    color: white; 
+    text-decoration: none;
+    
+}
+
+.social a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.social a:hover {
+    color: lightseagreen;
 }
