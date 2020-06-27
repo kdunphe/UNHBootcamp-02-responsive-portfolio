@@ -12,6 +12,30 @@ body {
     justify-content: right;
 }
 
+.card {
+    width: 60%;
+}
+
+.card-header {
+    color: teal;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img {
+    float: left;
+    margin: 10px 25px 100px 0px;
+}
+
+p {
+    margin: 10px 25px 10px 0px;
+    line-height: 30px;
+}
+
+/* .btn btn-primary {
+    background: teal;
+} */
+
 footer {
     background: #666;
     color: #fff;
