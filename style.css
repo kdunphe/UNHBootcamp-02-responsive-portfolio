@@ -39,18 +39,21 @@ h2 {
 /* NAVIGATION */
 .navigation {
     background: white;
-    font-size: 24px;
+    font-size: 16px;
 }
 
-.navbar-brand {
+.nav-item-header {
+    background-color: lightseagreen;
+}
+
+.nav-link {
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+.col-sm-12 {
     background: lightseagreen;
-    padding: 10px;
 }
-
-.navbar-nav {
-    justify-content: right;
-}
-
 
 /* CARD */
 /* .card {
