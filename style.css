@@ -10,40 +10,17 @@ p {
 }
 
 h1 {
-    font-size: 30px;
-    background: lightseagreen;
-}
-
-/* .h1 {
-    background: lightseagreen;
-} */
-
-
-h2 {
     color: lightseagreen;
     font-weight: bold;
+    font-size: 30px;
     padding: 20px 0px 0px 0px;
 }
-
-
-/* .card-title {
-    text-align: center;
-    font-weight: bold;
-    background: lightseagreen;
-    color: white;
-    margin-top: 120px;
-    padding: 15px;
-} */
 
 
 /* NAVIGATION */
 .navigation {
     background: white;
     font-size: 16px;
-}
-
-.nav-item-header {
-    background-color: lightseagreen;
 }
 
 .nav-link {
@@ -55,31 +32,9 @@ h2 {
     background: lightseagreen;
 }
 
-/* CARD */
-/* .card {
-    width: 60%;
-    margin: 20px 40px; 
-}
-
-.card-header {
-    color: lightseagreen;
-    font-weight: bold;
-    font-size: 30px;
-} */
-
-
-/* .container {
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 50px;
-} */
-
 .col-sm-8 {
     background: white;
 }
-
-/* .col-sm {
-    width: 100%;
-} */
 
 
 /* IMAGES */
@@ -93,6 +48,22 @@ img {
 /* form {
     padding: 30px;
 } */
+
+
+.card-title {
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background: lightseagreen;
+    opacity: 70%;
+    color: white;
+    padding: 10px;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
 
 
 /* FOOTER */
