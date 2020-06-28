@@ -36,18 +36,16 @@ h1 {
     background: white;
 }
 
+.row-new {
+    background: white;
+}
+
 
 /* IMAGES */
 img {
     float: left;
     margin: 10px 25px 25px 0px;
 }
-
-
-/* FORM */
-/* form {
-    padding: 30px;
-} */
 
 
 .card-title {
@@ -71,8 +69,7 @@ footer {
     background: #666;
     color: #fff;
     text-align: center;
-    margin-top: 100px;
-    padding: 20px;
+    padding: 10px;
 }
 
 .social {
