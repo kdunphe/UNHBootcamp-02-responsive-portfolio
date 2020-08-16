@@ -1,6 +1,8 @@
-# UNHBootcamp-02-responsive-portfolio
+# Responsive Portfolio
 
-**Homework Assignment #2**
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
+**Overview**
 
 Create a mobile responsive portfolio, utilizing the Bootstrap CSS Framework.
 
@@ -15,6 +17,8 @@ Create a mobile responsive portfolio, utilizing the Bootstrap CSS Framework.
 * Validated HTML
 
 _Link to deployed website:_ https://kdunphe.github.io/UNHBootcamp-02-responsive-portfolio/
+
+Contact: <a href="mailto:kayla.dunphe@gmail.com">kayla.dunphe@gmail.com</a>
 
 ![AboutMe-Screentshot](/assets/AboutMe-Screenshot.jpg)
 ![Portfolio-Screentshot](/assets/Portfolio-Screenshot.jpg)
