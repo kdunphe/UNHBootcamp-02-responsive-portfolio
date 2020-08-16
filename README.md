@@ -4,13 +4,13 @@
 
 <h2>Overview</h2>
 
-Deployed Site: https://kdunphe.github.io/UNHBootcamp-02-responsive-portfolio/
+**Deployed Site:** https://kdunphe.github.io/UNHBootcamp-02-responsive-portfolio/
 
-Technologies Used: HTML, CSS, Bootstrap, Flex Box
+**Technologies Used:** HTML, CSS, Bootstrap, Flex Box
 
-Contact: <a href="mailto:kayla.dunphe@gmail.com">kayla.dunphe@gmail.com</a>
+**Contact:** <a href="mailto:kayla.dunphe@gmail.com">kayla.dunphe@gmail.com</a>
 
-Create a mobile responsive portfolio, utilizing the Bootstrap CSS Framework.
+**Goal:** Create a mobile responsive portfolio, utilizing the Bootstrap CSS Framework.
 
 
 _**The portfolio site includes:**_
@@ -25,6 +25,7 @@ _**The portfolio site includes:**_
 
 
 <h2>Screenshots</h2>
+
 ![AboutMe-Screentshot](/assets/AboutMe-Screenshot.jpg)
 
 ![Portfolio-Screentshot](/assets/Portfolio-Screenshot.jpg)
